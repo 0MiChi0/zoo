@@ -67,4 +67,16 @@ public abstract class Animal {
     public void setHeight(Double height) {
         this.height = height;
     }
+
+    @Override
+    public String toString() {
+        return "Animal{" +
+                "name='" + name + '\'' +
+                ", favoriteFood='" + favoriteFood + '\'' +
+                ", age=" + age +
+                ", dateOfEntry=" + dateOfEntry +
+                ", weight=" + weight +
+                ", height=" + height +
+                '}';
+    }
 }
