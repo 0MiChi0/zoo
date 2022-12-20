@@ -30,7 +30,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mchiarolanza/Desktop/sm/zoo&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mchiarolanza/Desktop/sm/zoo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
   <component name="RunManager">
@@ -62,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1671190355672</updated>
       <workItem from="1671190357008" duration="15111000" />
-      <workItem from="1671442115672" duration="2873000" />
+      <workItem from="1671442115672" duration="20013000" />
+      <workItem from="1671523031881" duration="21359000" />
     </task>
     <servers />
   </component>
@@ -79,5 +81,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -18,4 +18,14 @@ public abstract class AnimalWithWings extends Animal {
     public void setWingspan(Double wingspan) {
         this.wingspan = wingspan;
     }
+
+    @Override
+    public String toString() {
+        return "AnimalWithWings{" +
+                "name=" + super.getName() + " " +
+                "weight" + super.getWeight() + " " +
+                "height" + super.getHeight() + " " +
+                "wingspan=" + wingspan +
+                '}';
+    }
 }
